@@ -1,0 +1,4 @@
+wf/__pycache__
+.logs
+.latch*
+.ssh*
